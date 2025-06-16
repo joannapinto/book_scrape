@@ -1,22 +1,3 @@
-The content in both versions of this `README.md` file appears to be identical. However, the conflict markers (`<<<<<<< HEAD`, `=======`, and `>>>>>>> a187819 (Add files via upload)`) must be removed to finalize the file.
-
----
-
-### **Steps to Resolve**
-
-1. **Remove Conflict Markers**:
-
-   * `<<<<<<< HEAD`
-   * `=======`
-   * `>>>>>>> a187819 (Add files via upload)`
-
-2. Keep one clean version of the content.
-
----
-
-### **Final `README.md`**
-
-````markdown
 # Book Scraper Project
 
 This project is designed to scrape book details from the website [Books to Scrape](http://books.toscrape.com). It collects data such as **Title**, **Price**, **Rating**, **Availability**, and **Product URL**, processes pagination to scrape all available books (~1000 total), and saves the results into a structured CSV file (`books_data.csv`).
