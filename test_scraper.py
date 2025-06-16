@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
         # Restore stdout and print success message
         sys.stdout = old_stdout
-        print("All tests completed successfully. No errors found.")
+        print("All tests completed. No errors found.")
     except AssertionError as e:
         sys.stdout = old_stdout
         print(f"Test failed: {e}")
