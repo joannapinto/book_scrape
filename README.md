@@ -107,7 +107,7 @@ The project consists of two main functions and a driver script:
   * Proper column structure (Title, Price, Rating, Availability, URL).
   * Encoding is set to `utf-8-sig` to handle special characters.
 
-### 3. \\Driver Script (`if __name__ == "__main__")`
+### 3. \Driver Script (`if __name__ == "__main__")`
 
 * Combines the scraping and saving processes.
 * Manages error handling for HTTP requests.
