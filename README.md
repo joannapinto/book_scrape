@@ -24,7 +24,7 @@ This project is designed to scrape book details from the website [Books to Scrap
    ```bash
    git clone https://github.com/your-repo/book-scraper.git
    cd book-scraper
-````
+   ````
 
 2. **Set Up a Virtual Environment (Recommended)**:
 
